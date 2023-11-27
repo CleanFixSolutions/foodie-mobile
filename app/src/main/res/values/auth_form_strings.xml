@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- general authentication text -->
+    <string name="auth_login_field_hint">Login</string>
+    <string name="auth_email_field_hint">Email</string>
+    <string name="auth_password_field_hint">Password</string>
+
+    <string name="auth_empty_field_toast">Not all fields are filled in</string>
+
+
+    <!-- login text -->
+    <string name="login_header_title">Login to your account!</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_to_register_redirect_text">or register</string>
+
+    <string name="login_successfully_login_toast">Successfully login</string>
+
+
+    <!-- register text -->
+    <string name="register_header_title">Create your account!</string>
+    <string name="register_button_text">Create</string>
+    <string name="register_to_login_redirect_text">or login</string>
+
+    <string name="register_successfully_registered_toast">Account has been created</string>
+
+</resources>
